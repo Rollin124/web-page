@@ -1,2 +1,3 @@
 //hey how are you doing
-console.js("heelo")
+console.log("heelo")
+console.log("hello") //2nd time
