@@ -1,4 +1,4 @@
-## web-pagea
+## web-pages
 This is a preoject related to html and css , for contribution
 
 ##
